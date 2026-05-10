@@ -1,0 +1,180 @@
+country_name,country_text_id,country_id,year,v2x_polyarchy,v2x_libdem,v2x_partipdem,v2x_delibdem,v2x_egaldem,v2x_regime,v2xca_academ,regime_label
+Mexico,MEX,3,2025,0.469,0.221,0.337,0.246,0.265,1.0,0.706,Electoral Autocracy
+Suriname,SUR,4,2025,0.781,0.626,0.509,0.62,0.6,2.0,0.828,Electoral Democracy
+Sweden,SWE,5,2025,0.889,0.853,0.635,0.817,0.802,3.0,0.934,Liberal Democracy
+Switzerland,CHE,6,2025,0.882,0.843,0.785,0.852,0.82,3.0,0.773,Liberal Democracy
+Ghana,GHA,7,2025,0.711,0.606,0.361,0.583,0.493,2.0,0.67,Electoral Democracy
+South Africa,ZAF,8,2025,0.743,0.633,0.47,0.651,0.518,2.0,0.831,Electoral Democracy
+Japan,JPN,9,2025,0.819,0.734,0.526,0.729,0.758,3.0,0.76,Liberal Democracy
+Burma/Myanmar,MMR,10,2025,0.08,0.015,0.041,0.035,0.057,0.0,0.023,Closed Autocracy
+Russia,RUS,11,2025,0.17,0.056,0.124,0.059,0.13,1.0,0.176,Electoral Autocracy
+Albania,ALB,12,2025,0.484,0.382,0.29,0.236,0.351,1.0,0.76,Electoral Autocracy
+Egypt,EGY,13,2025,0.187,0.115,0.076,0.12,0.106,1.0,0.075,Electoral Autocracy
+Yemen,YEM,14,2025,0.127,0.043,0.072,0.039,0.033,0.0,0.24,Closed Autocracy
+Colombia,COL,15,2025,0.679,0.555,0.467,0.458,0.405,2.0,0.599,Electoral Democracy
+Poland,POL,17,2025,0.768,0.645,0.519,0.653,0.671,2.0,0.864,Electoral Democracy
+Brazil,BRA,19,2025,0.784,0.704,0.528,0.707,0.54,2.0,0.849,Electoral Democracy
+United States of America,USA,20,2025,0.735,0.571,0.51,0.481,0.472,2.0,0.397,Electoral Democracy
+Portugal,PRT,21,2025,0.822,0.717,0.529,0.691,0.614,2.0,0.826,Electoral Democracy
+El Salvador,SLV,22,2025,0.321,0.09,0.159,0.125,0.125,1.0,0.165,Electoral Autocracy
+Bangladesh,BGD,24,2025,0.195,0.116,0.099,0.159,0.115,0.0,0.519,Closed Autocracy
+Bolivia,BOL,25,2025,0.605,0.352,0.414,0.238,0.394,2.0,0.582,Electoral Democracy
+Haiti,HTI,26,2025,0.238,0.098,0.119,0.195,0.076,0.0,0.69,Closed Autocracy
+Honduras,HND,27,2025,0.511,0.38,0.32,0.358,0.256,2.0,0.931,Electoral Democracy
+Mali,MLI,28,2025,0.164,0.15,0.164,0.208,0.171,0.0,0.281,Closed Autocracy
+Pakistan,PAK,29,2025,0.302,0.176,0.192,0.182,0.123,1.0,0.268,Electoral Autocracy
+Peru,PER,30,2025,0.667,0.506,0.448,0.377,0.388,2.0,0.838,Electoral Democracy
+Senegal,SEN,31,2025,0.633,0.484,0.402,0.555,0.46,2.0,0.755,Electoral Democracy
+South Sudan,SSD,32,2025,0.133,0.064,0.047,0.038,0.032,0.0,0.054,Closed Autocracy
+Sudan,SDN,33,2025,0.13,0.034,0.051,0.023,0.078,0.0,0.206,Closed Autocracy
+Vietnam,VNM,34,2025,0.146,0.102,0.164,0.181,0.163,0.0,0.222,Closed Autocracy
+Afghanistan,AFG,36,2025,0.069,0.018,0.051,0.012,0.016,0.0,0.086,Closed Autocracy
+Argentina,ARG,37,2025,0.69,0.524,0.429,0.41,0.5,2.0,0.625,Electoral Democracy
+Ethiopia,ETH,38,2025,0.257,0.1,0.128,0.195,0.161,1.0,0.337,Electoral Autocracy
+India,IND,39,2025,0.377,0.26,0.246,0.259,0.201,1.0,0.136,Electoral Autocracy
+Kenya,KEN,40,2025,0.563,0.446,0.335,0.454,0.347,2.0,0.864,Electoral Democracy
+North Korea,PRK,41,2025,0.083,0.014,0.044,0.011,0.093,0.0,0.036,Closed Autocracy
+South Korea,KOR,42,2025,0.819,0.739,0.551,0.751,0.712,3.0,0.85,Liberal Democracy
+Kosovo,XKX,43,2025,0.631,0.457,0.346,0.394,0.459,2.0,0.621,Electoral Democracy
+Lebanon,LBN,44,2025,0.419,0.267,0.222,0.35,0.254,1.0,0.618,Electoral Autocracy
+Nigeria,NGA,45,2025,0.505,0.311,0.323,0.348,0.317,2.0,0.876,Electoral Democracy
+Philippines,PHL,46,2025,0.392,0.291,0.261,0.251,0.169,1.0,0.589,Electoral Autocracy
+Tanzania,TZA,47,2025,0.365,0.297,0.245,0.29,0.318,1.0,0.515,Electoral Autocracy
+Taiwan,TWN,48,2025,0.801,0.704,0.652,0.685,0.702,3.0,0.828,Liberal Democracy
+Thailand,THA,49,2025,0.424,0.314,0.186,0.193,0.247,1.0,0.382,Electoral Autocracy
+Uganda,UGA,50,2025,0.253,0.165,0.156,0.228,0.139,1.0,0.196,Electoral Autocracy
+Venezuela,VEN,51,2025,0.181,0.042,0.148,0.023,0.08,1.0,0.129,Electoral Autocracy
+Benin,BEN,52,2025,0.493,0.323,0.28,0.304,0.387,1.0,0.709,Electoral Autocracy
+Bhutan,BTN,53,2025,0.566,0.457,0.349,0.503,0.463,2.0,0.401,Electoral Democracy
+Burkina Faso,BFA,54,2025,0.134,0.103,0.104,0.048,0.157,0.0,0.562,Closed Autocracy
+Cambodia,KHM,55,2025,0.183,0.051,0.06,0.079,0.084,1.0,0.216,Electoral Autocracy
+Indonesia,IDN,56,2025,0.462,0.296,0.298,0.363,0.252,1.0,0.33,Electoral Autocracy
+Mozambique,MOZ,57,2025,0.279,0.175,0.201,0.17,0.188,1.0,0.408,Electoral Autocracy
+Nepal,NPL,58,2025,0.656,0.505,0.435,0.406,0.422,2.0,0.831,Electoral Democracy
+Nicaragua,NIC,59,2025,0.151,0.019,0.098,0.017,0.085,1.0,0.019,Electoral Autocracy
+Niger,NER,60,2025,0.227,0.177,0.189,0.253,0.214,0.0,0.689,Closed Autocracy
+Zambia,ZMB,61,2025,0.497,0.375,0.348,0.412,0.266,1.0,0.844,Electoral Autocracy
+Zimbabwe,ZWE,62,2025,0.268,0.147,0.202,0.22,0.135,1.0,0.157,Electoral Autocracy
+Guinea,GIN,63,2025,0.187,0.095,0.12,0.095,0.149,0.0,0.301,Closed Autocracy
+Ivory Coast,CIV,64,2025,0.394,0.228,0.262,0.241,0.237,1.0,0.575,Electoral Autocracy
+Mauritania,MRT,65,2025,0.328,0.127,0.221,0.228,0.142,1.0,0.253,Electoral Autocracy
+Canada,CAN,66,2025,0.84,0.736,0.589,0.677,0.626,2.0,0.854,Electoral Democracy
+Australia,AUS,67,2025,0.844,0.793,0.648,0.771,0.726,3.0,0.864,Liberal Democracy
+Botswana,BWA,68,2025,0.665,0.52,0.369,0.35,0.48,2.0,0.834,Electoral Democracy
+Burundi,BDI,69,2025,0.185,0.06,0.142,0.066,0.096,1.0,0.144,Electoral Autocracy
+Cape Verde,CPV,70,2025,0.745,0.631,0.458,0.549,0.557,2.0,0.866,Electoral Democracy
+Central African Republic,CAF,71,2025,0.293,0.102,0.13,0.131,0.114,1.0,0.326,Electoral Autocracy
+Chile,CHL,72,2025,0.839,0.781,0.574,0.771,0.64,3.0,0.918,Liberal Democracy
+Costa Rica,CRI,73,2025,0.862,0.809,0.606,0.787,0.762,3.0,0.915,Liberal Democracy
+Timor-Leste,TLS,74,2025,0.736,0.549,0.462,0.54,0.473,2.0,0.731,Electoral Democracy
+Ecuador,ECU,75,2025,0.607,0.386,0.462,0.366,0.268,2.0,0.433,Electoral Democracy
+France,FRA,76,2025,0.865,0.8,0.597,0.793,0.721,3.0,0.8,Liberal Democracy
+Germany,DEU,77,2025,0.828,0.782,0.593,0.79,0.766,3.0,0.877,Liberal Democracy
+Guatemala,GTM,78,2025,0.637,0.523,0.421,0.471,0.338,2.0,0.736,Electoral Democracy
+Iran,IRN,79,2025,0.159,0.103,0.042,0.094,0.152,1.0,0.06,Electoral Autocracy
+Iraq,IRQ,80,2025,0.369,0.22,0.224,0.27,0.197,1.0,0.604,Electoral Autocracy
+Ireland,IRL,81,2025,0.887,0.822,0.619,0.804,0.775,3.0,0.922,Liberal Democracy
+Italy,ITA,82,2025,0.745,0.642,0.569,0.61,0.652,3.0,0.822,Liberal Democracy
+Jordan,JOR,83,2025,0.282,0.274,0.132,0.268,0.211,0.0,0.173,Closed Autocracy
+Latvia,LVA,84,2025,0.834,0.751,0.595,0.684,0.73,3.0,0.928,Liberal Democracy
+Lesotho,LSO,85,2025,0.661,0.512,0.404,0.482,0.49,2.0,0.643,Electoral Democracy
+Liberia,LBR,86,2025,0.597,0.417,0.321,0.485,0.386,2.0,0.609,Electoral Democracy
+Malawi,MWI,87,2025,0.557,0.462,0.366,0.468,0.317,2.0,0.795,Electoral Democracy
+Maldives,MDV,88,2025,0.556,0.416,0.316,0.416,0.371,2.0,0.555,Electoral Democracy
+Mongolia,MNG,89,2025,0.535,0.424,0.281,0.448,0.382,2.0,0.671,Electoral Democracy
+Morocco,MAR,90,2025,0.259,0.251,0.151,0.278,0.203,0.0,0.481,Closed Autocracy
+Netherlands,NLD,91,2025,0.832,0.774,0.553,0.742,0.739,3.0,0.763,Liberal Democracy
+Panama,PAN,92,2025,0.728,0.575,0.441,0.56,0.453,2.0,0.914,Electoral Democracy
+Papua New Guinea,PNG,93,2025,0.467,0.384,0.28,0.248,0.248,1.0,0.849,Electoral Autocracy
+Qatar,QAT,94,2025,0.034,0.091,0.034,0.12,0.101,0.0,0.1,Closed Autocracy
+Sierra Leone,SLE,95,2025,0.471,0.348,0.307,0.433,0.336,1.0,0.862,Electoral Autocracy
+Spain,ESP,96,2025,0.822,0.741,0.572,0.693,0.695,3.0,0.869,Liberal Democracy
+Syria,SYR,97,2025,0.128,0.054,0.058,0.166,0.126,0.0,0.201,Closed Autocracy
+Tunisia,TUN,98,2025,0.395,0.265,0.242,0.33,0.323,1.0,0.558,Electoral Autocracy
+Türkiye,TUR,99,2025,0.293,0.11,0.165,0.08,0.208,1.0,0.088,Electoral Autocracy
+Ukraine,UKR,100,2025,0.386,0.24,0.252,0.326,0.301,1.0,0.281,Electoral Autocracy
+United Kingdom,GBR,101,2025,0.772,0.689,0.533,0.665,0.612,2.0,0.668,Electoral Democracy
+Uruguay,URY,102,2025,0.862,0.79,0.716,0.784,0.693,3.0,0.91,Liberal Democracy
+Algeria,DZA,103,2025,0.265,0.126,0.095,0.183,0.207,1.0,0.206,Electoral Autocracy
+Angola,AGO,104,2025,0.344,0.163,0.103,0.173,0.129,1.0,0.416,Electoral Autocracy
+Armenia,ARM,105,2025,0.614,0.371,0.319,0.376,0.491,2.0,0.582,Electoral Democracy
+Azerbaijan,AZE,106,2025,0.171,0.053,0.043,0.034,0.124,1.0,0.092,Electoral Autocracy
+Belarus,BLR,107,2025,0.163,0.038,0.054,0.032,0.228,0.0,0.06,Closed Autocracy
+Cameroon,CMR,108,2025,0.26,0.114,0.093,0.097,0.178,1.0,0.207,Electoral Autocracy
+Chad,TCD,109,2025,0.242,0.062,0.129,0.122,0.084,1.0,0.132,Electoral Autocracy
+China,CHN,110,2025,0.072,0.039,0.036,0.064,0.078,0.0,0.071,Closed Autocracy
+Democratic Republic of the Congo,COD,111,2025,0.306,0.115,0.2,0.214,0.157,1.0,0.506,Electoral Autocracy
+Republic of the Congo,COG,112,2025,0.243,0.115,0.188,0.163,0.107,1.0,0.255,Electoral Autocracy
+Djibouti,DJI,113,2025,0.25,0.118,0.142,0.142,0.193,1.0,0.302,Electoral Autocracy
+Dominican Republic,DOM,114,2025,0.735,0.505,0.475,0.647,0.405,2.0,0.901,Electoral Democracy
+Eritrea,ERI,115,2025,0.069,0.009,0.008,0.025,0.108,0.0,0.034,Closed Autocracy
+Gabon,GAB,116,2025,0.302,0.178,0.24,0.227,0.246,1.0,0.428,Electoral Autocracy
+The Gambia,GMB,117,2025,0.641,0.522,0.406,0.486,0.452,2.0,0.821,Electoral Democracy
+Georgia,GEO,118,2025,0.401,0.275,0.236,0.32,0.311,1.0,0.584,Electoral Autocracy
+Guinea-Bissau,GNB,119,2025,0.252,0.095,0.128,0.129,0.171,0.0,0.523,Closed Autocracy
+Jamaica,JAM,120,2025,0.805,0.679,0.524,0.694,0.658,2.0,0.939,Electoral Democracy
+Kazakhstan,KAZ,121,2025,0.259,0.131,0.107,0.185,0.204,1.0,0.334,Electoral Autocracy
+Kyrgyzstan,KGZ,122,2025,0.313,0.178,0.163,0.146,0.235,1.0,0.378,Electoral Autocracy
+Laos,LAO,123,2025,0.135,0.11,0.118,0.06,0.114,0.0,0.122,Closed Autocracy
+Libya,LBY,124,2025,0.193,0.098,0.087,0.261,0.123,0.0,0.282,Closed Autocracy
+Madagascar,MDG,125,2025,0.361,0.187,0.217,0.177,0.17,1.0,0.684,Electoral Autocracy
+Moldova,MDA,126,2025,0.553,0.449,0.389,0.442,0.44,2.0,0.689,Electoral Democracy
+Namibia,NAM,127,2025,0.633,0.519,0.349,0.464,0.345,2.0,0.718,Electoral Democracy
+Palestine/West Bank,PSE,128,2025,0.214,0.114,0.15,0.073,0.188,1.0,0.347,Electoral Autocracy
+Rwanda,RWA,129,2025,0.193,0.09,0.13,0.182,0.167,1.0,0.097,Electoral Autocracy
+Somalia,SOM,130,2025,0.165,0.128,0.095,0.189,0.099,0.0,0.494,Closed Autocracy
+Sri Lanka,LKA,131,2025,0.783,0.613,0.52,0.621,0.587,2.0,0.828,Electoral Democracy
+Eswatini,SWZ,132,2025,0.128,0.097,0.11,0.064,0.077,0.0,0.179,Closed Autocracy
+Tajikistan,TJK,133,2025,0.158,0.043,0.059,0.048,0.06,1.0,0.082,Electoral Autocracy
+Togo,TGO,134,2025,0.351,0.157,0.233,0.288,0.241,1.0,0.609,Electoral Autocracy
+Trinidad and Tobago,TTO,135,2025,0.786,0.668,0.505,0.602,0.661,3.0,0.866,Liberal Democracy
+Turkmenistan,TKM,136,2025,0.148,0.034,0.033,0.028,0.087,0.0,0.064,Closed Autocracy
+Palestine/Gaza,PSG,138,2025,0.128,0.058,0.071,0.045,0.117,0.0,0.105,Closed Autocracy
+Somaliland,SML,139,2025,0.445,0.297,0.268,0.301,0.193,1.0,0.709,Electoral Autocracy
+Uzbekistan,UZB,140,2025,0.218,0.079,0.082,0.154,0.153,0.0,0.248,Closed Autocracy
+Austria,AUT,144,2025,0.839,0.757,0.582,0.729,0.723,3.0,0.881,Liberal Democracy
+Bahrain,BHR,146,2025,0.139,0.062,0.054,0.06,0.127,0.0,0.199,Closed Autocracy
+Barbados,BRB,147,2025,0.797,0.679,0.347,0.712,0.676,3.0,0.904,Liberal Democracy
+Belgium,BEL,148,2025,0.889,0.794,0.633,0.775,0.821,3.0,0.946,Liberal Democracy
+Bosnia and Herzegovina,BIH,150,2025,0.498,0.339,0.298,0.329,0.359,1.0,0.75,Electoral Autocracy
+Bulgaria,BGR,152,2025,0.599,0.499,0.397,0.474,0.442,2.0,0.85,Electoral Democracy
+Comoros,COM,153,2025,0.293,0.132,0.2,0.126,0.222,1.0,0.303,Electoral Autocracy
+Croatia,HRV,154,2025,0.686,0.593,0.459,0.499,0.543,2.0,0.811,Electoral Democracy
+Cuba,CUB,155,2025,0.176,0.057,0.054,0.097,0.224,0.0,0.084,Closed Autocracy
+Cyprus,CYP,156,2025,0.773,0.664,0.49,0.613,0.684,3.0,0.889,Liberal Democracy
+Czechia,CZE,157,2025,0.849,0.794,0.562,0.703,0.767,3.0,0.978,Liberal Democracy
+Denmark,DNK,158,2025,0.913,0.884,0.7,0.867,0.876,3.0,0.875,Liberal Democracy
+Equatorial Guinea,GNQ,160,2025,0.172,0.047,0.041,0.045,0.108,1.0,0.108,Electoral Autocracy
+Estonia,EST,161,2025,0.887,0.837,0.621,0.758,0.81,3.0,0.974,Liberal Democracy
+Fiji,FJI,162,2025,0.507,0.398,0.265,0.406,0.37,2.0,0.636,Electoral Democracy
+Finland,FIN,163,2025,0.852,0.808,0.597,0.762,0.707,3.0,0.818,Liberal Democracy
+Greece,GRC,164,2025,0.741,0.568,0.493,0.61,0.64,2.0,0.68,Electoral Democracy
+Guyana,GUY,166,2025,0.515,0.328,0.283,0.245,0.38,2.0,0.761,Electoral Democracy
+Hong Kong,HKG,167,2025,0.151,0.142,0.049,0.057,0.219,0.0,0.237,Closed Autocracy
+Iceland,ISL,168,2025,0.807,0.72,0.565,0.703,0.728,3.0,0.756,Liberal Democracy
+Israel,ISR,169,2025,0.694,0.588,0.455,0.511,0.549,2.0,0.84,Electoral Democracy
+Kuwait,KWT,171,2025,0.138,0.127,0.053,0.176,0.171,0.0,0.418,Closed Autocracy
+Lithuania,LTU,173,2025,0.786,0.712,0.56,0.662,0.686,3.0,0.823,Liberal Democracy
+Luxembourg,LUX,174,2025,0.869,0.777,0.556,0.824,0.81,3.0,0.918,Liberal Democracy
+North Macedonia,MKD,176,2025,0.562,0.374,0.354,0.372,0.373,2.0,0.664,Electoral Democracy
+Malaysia,MYS,177,2025,0.504,0.355,0.303,0.364,0.38,2.0,0.289,Electoral Democracy
+Malta,MLT,178,2025,0.783,0.621,0.529,0.642,0.694,2.0,0.874,Electoral Democracy
+Mauritius,MUS,180,2025,0.738,0.639,0.481,0.663,0.576,2.0,0.592,Electoral Democracy
+Montenegro,MNE,183,2025,0.636,0.5,0.403,0.521,0.501,2.0,0.824,Electoral Democracy
+New Zealand,NZL,185,2025,0.849,0.787,0.581,0.644,0.726,3.0,0.847,Liberal Democracy
+Norway,NOR,186,2025,0.89,0.847,0.638,0.863,0.844,3.0,0.854,Liberal Democracy
+Oman,OMN,187,2025,0.175,0.14,0.12,0.073,0.174,0.0,0.215,Closed Autocracy
+Paraguay,PRY,189,2025,0.581,0.376,0.342,0.315,0.241,2.0,0.703,Electoral Democracy
+Romania,ROU,190,2025,0.605,0.464,0.416,0.294,0.424,2.0,0.754,Electoral Democracy
+Sao Tome and Principe,STP,196,2025,0.632,0.519,0.391,0.416,0.448,2.0,0.636,Electoral Democracy
+Saudi Arabia,SAU,197,2025,0.016,0.047,0.026,0.072,0.113,0.0,0.066,Closed Autocracy
+Serbia,SRB,198,2025,0.3,0.208,0.217,0.208,0.276,1.0,0.598,Electoral Autocracy
+Seychelles,SYC,199,2025,0.76,0.68,0.341,0.703,0.632,3.0,0.931,Liberal Democracy
+Singapore,SGP,200,2025,0.434,0.36,0.121,0.353,0.37,1.0,0.466,Electoral Autocracy
+Slovakia,SVK,201,2025,0.733,0.573,0.508,0.362,0.566,2.0,0.807,Electoral Democracy
+Slovenia,SVN,202,2025,0.692,0.589,0.506,0.612,0.604,2.0,0.937,Electoral Democracy
+Solomon Islands,SLB,203,2025,0.696,0.539,0.429,0.395,0.439,2.0,0.9,Electoral Democracy
+Vanuatu,VUT,206,2025,0.729,0.623,0.323,0.467,0.565,2.0,0.909,Electoral Democracy
+United Arab Emirates,ARE,207,2025,0.104,0.077,0.031,0.082,0.124,0.0,0.195,Closed Autocracy
+Hungary,HUN,210,2025,0.421,0.315,0.268,0.178,0.296,1.0,0.299,Electoral Autocracy
+Zanzibar,ZZB,236,2025,0.309,0.253,0.17,0.223,0.244,1.0,0.232,Electoral Autocracy
