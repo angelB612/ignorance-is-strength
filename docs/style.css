@@ -70,17 +70,6 @@ body {
 
 .attribution em { color: var(--text); font-style: italic; }
 
-.scroll-hint {
-  position: absolute;
-  bottom: 2rem;
-  font-family: var(--mono);
-  font-size: 0.7rem;
-  letter-spacing: 0.2em;
-  color: var(--muted);
-  opacity: 0;
-  animation: fadeIn 0.8s ease 3.2s forwards, bob 2s ease-in-out 4s infinite;
-}
-
 @keyframes bob {
   0%, 100% { transform: translateY(0); }
   50%       { transform: translateY(5px); }
