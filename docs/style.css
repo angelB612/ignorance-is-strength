@@ -342,7 +342,7 @@ body {
 .sources li strong { color: #999; }
 
 /* RESPONSIVE  */
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
   #story {
     grid-template-columns: 1fr;
     padding: 0 1.5rem;
@@ -351,17 +351,34 @@ body {
   .sticky-chart {
     position: sticky;
     top: 0;
-    height: 45vh;
-    padding: 0;
+    height: 42vh;
+    padding: 0.4rem 0 0;
     margin-bottom: 0;
     order: -1;
+    z-index: 10;
+    background: var(--bg);
   }
 
   .steps {
-    padding: 2rem 0 20vh 0;
+    padding: 0 0 20vh 0;
   }
 
   .step {
-    min-height: 60vh;
+    min-height: 70vh;
+    padding: 2rem 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .sticky-chart {
+    height: 36vh;
+  }
+
+  .step {
+    min-height: 55vh;
+  }
+
+  .step-content h2 {
+    font-size: 22px;
   }
 }
